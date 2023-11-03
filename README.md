@@ -1,6 +1,5 @@
 # Naive-Bees-Image-Loading-and-Processing
 
-## 1. Import Python libraries
 <p><img src="https://assets.datacamp.com/production/project_374/img/honey.jpg" alt="honey bee">
 <em>A honey bee.</em></p>
 <p>The question at hand is: can a machine identify a bee as a honey bee or a bumble bee? These bees have different <a href="http://bumblebeeconservation.org/about-bees/faqs/honeybees-vs-bumblebees/">behaviors and appearances</a>, but given the variety of backgrounds, positions, and image resolutions it can be a challenge for machines to tell them apart.</p>
